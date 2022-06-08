@@ -1,0 +1,22 @@
+.oturum{
+    float: right;
+    padding: 15px;
+
+}
+.top{
+    background-color:blue;
+    margin-left: 300px;
+    height: 300px;
+    width: 300px;
+    
+}
+.btn{
+    padding-left: 500px;
+    
+}
+.footer{
+    margin-top: 280px;
+    padding: 10px;
+    background-color: gray;
+    width: 190px;
+}
